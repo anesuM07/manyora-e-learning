@@ -1,0 +1,7 @@
+{
+  "name": "Manyora E-Learning",
+  "description": "An AI-powered mobile-first e-learning platform that summarizes PDFs, provides text-to-speech for lessons, and offers interactive quizzes across five core subjects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
